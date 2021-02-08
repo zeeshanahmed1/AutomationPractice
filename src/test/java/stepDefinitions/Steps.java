@@ -30,9 +30,9 @@ import com.fasterxml.jackson.annotation.JsonUnwrapped;
 public class Steps {
 	
 	
-	private static final String USER_ID = "f2297db8-28fb-4dcc-9a04-58e17939af67";
-	 private static final String USERNAME = "zeeshan ahmed";
-	 private static final String PASSWORD = "Paki$tan123";
+	private static final String USER_ID = "f2fjsjcjsjvb-4dc8fjeaf67";
+	 private static final String USERNAME = "xxxxxxx";
+	 private static final String PASSWORD = "xxxxxxxx";
 	 private static final String BASE_URL = "https://bookstore.toolsqa.com";
 	 
 	 private static String token;
